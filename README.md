@@ -15,9 +15,9 @@ npm install -g hxpipe
 # Running
 
 ```
-hxpipe file.xml
-hxpipe < file.xml
-curl file.xml | hxpipe
+haxpipe file.xml
+haxpipe < file.xml
+curl file.xml | haxpipe
 ```
 
 # Examples
