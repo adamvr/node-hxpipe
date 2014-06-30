@@ -20,6 +20,17 @@ hxpipe < file.xml
 curl file.xml | hxpipe
 ```
 
+# Examples
+
+```javascript
+var Hxpipe = require('hxpipe')
+  , fs = require('fs');
+
+fs.createReadStream('file.xml')
+  .pipe(new Hxpipe())
+  .pipe(process.stdout);
+```
+
 # License
 
 MIT
