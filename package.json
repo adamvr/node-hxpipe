@@ -1,0 +1,17 @@
+{
+  "name": "hxpipe",
+  "version": "0.0.1",
+  "description": "A partial reimplementation of hxpipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Rudd",
+  "license": "MIT",
+  "dependencies": {
+    "node-expat": "^2.3.0"
+  },
+  "bin": {
+    "hxpipe": "./bin.js"
+  }
+}
