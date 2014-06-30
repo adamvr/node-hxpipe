@@ -1,6 +1,6 @@
 # Introduction
 
-This project is a partial clone of hxpipe from w3c's [html-xml-utils](http://www.w3.org/Tools/HTML-XML-utils/), written in nodejs javascript. 
+This project is a partial clone of hxpipe from w3c's [html-xml-utils](http://www.w3.org/Tools/HTML-XML-utils/), written in nodejs javascript. Eventually it should be a drop-in replacement for hxpipe.
 
 # Dependencies
 
