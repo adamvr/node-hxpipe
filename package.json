@@ -4,7 +4,7 @@
   "description": "A partial reimplementation of hxpipe",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Adam Rudd",
   "license": "MIT",
@@ -14,5 +14,9 @@
   "repository": "https://github.com/adamvr/node-hxpipe",
   "bin": {
     "hxpipe": "./bin.js"
+  },
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
   }
 }
