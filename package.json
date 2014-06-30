@@ -1,6 +1,6 @@
 {
   "name": "hxpipe",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A partial reimplementation of hxpipe",
   "main": "index.js",
   "scripts": {
