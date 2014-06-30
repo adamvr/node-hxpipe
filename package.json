@@ -13,7 +13,7 @@
   },
   "repository": "https://github.com/adamvr/node-hxpipe",
   "bin": {
-    "hxpipe": "./bin.js"
+    "haxpipe": "./bin.js"
   },
   "devDependencies": {
     "mocha": "^1.20.1",
