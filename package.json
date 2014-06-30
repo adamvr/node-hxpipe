@@ -11,6 +11,7 @@
   "dependencies": {
     "node-expat": "^2.3.0"
   },
+  "repository": "https://github.com/adamvr/node-hxpipe",
   "bin": {
     "hxpipe": "./bin.js"
   }
